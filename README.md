@@ -1,4 +1,4 @@
-﻿* MATLAB R2012b 用户使用手册翻译
+﻿# MATLAB R2012b 用户使用手册翻译
 
 本计划是翻译MATLAB R2012b版本的用户手册，一般版本更新对于手册影响不大，如有问题还望后人多加修改。
 
@@ -10,8 +10,8 @@
 
 翻译请切换到相应git分支进行翻译，push也请push到相应分支，保持master分支的稳定性，谢谢！
 
-路过留名
+* 路过留名
 
-姓名	email	work
-
-liuzheng	liuzheng712@gmail.com	整体工作
+|name|email|work|
+|----|-----|----|
+liuzheng|liuzheng712@gmail.com|整体工作
