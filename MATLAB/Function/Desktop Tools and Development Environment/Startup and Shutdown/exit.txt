@@ -2,7 +2,7 @@
 
 Terminate MATLAB program (same as quit)
 
-*Alternatives
+* Alternatives
 
 As an alternative to the exit function, select File > Exit MATLAB or click the Close box in the MATLAB desktop. 
 
