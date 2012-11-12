@@ -1,19 +1,19 @@
-* exit
+# exit
 
 Terminate MATLAB program (same as quit)
 
-* Alternatives
+## Alternatives
 
 As an alternative to the exit function, select File > Exit MATLAB or click the Close box in the MATLAB desktop. 
 
-* Syntax
+## Syntax
 
 exit
 
-* Description
+## Description
 
 exit terminates the current session of MATLAB after running finish.m, if the file finish.m exists. It performs the same as quit and takes the same termination options, such as force. For more information, see quit.
 
-*See Also
+## See Also
 
 finish | quit
